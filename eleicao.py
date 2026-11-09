@@ -98,3 +98,6 @@ while r1!=6:
     else:
         print('Digite um número listado!')
 
+
+
+
